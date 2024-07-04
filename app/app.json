@@ -1,0 +1,43 @@
+{
+  "id": "37585341-d626-40ab-acaf-9f761c52338c",
+  "name": "BeyondReportPreview-PTE",
+  "publisher": "BEYONDIT GmbH",
+  "version": "1.0.0.0",
+  "brief": "Report Preview Integration",
+  "description": "Report Preview Integration",
+  "privacyStatement": "https://www.beyond365.de/datenschutz",
+  "EULA": "https://www.beyond365.de/agb",
+  "help": "https://beyondit.gmbh",
+  "url": "https://beyondit.gmbh",
+  "contextSensitiveHelpUrl": "https://docs.beyond365.de/{0}/reportpreview/",
+  "supportedLocales": [
+    "de-DE",
+    "en-US"
+  ],
+  "dependencies": [
+    {
+      "id": "1daa4216-56fe-48ab-b90f-314ed11d023e",
+      "name": "BeyondReportPreview",
+      "publisher": "BEYONDIT GmbH",
+      "version": "2024.7.0.0"
+    }     
+  ],
+  "screenshots": [],
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 60300,
+      "to": 60310
+    }
+  ],
+  "features": [
+    "TranslationFile"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "11.0"
+}
