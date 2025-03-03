@@ -2,7 +2,7 @@
   "id": "37585341-d626-40ab-acaf-9f761c52338c",
   "name": "BeyondReportPreview-PTE",
   "publisher": "BEYONDIT GmbH",
-  "version": "2024.7.0.0",
+  "version": "2024.7.0.2",
   "brief": "Report Preview Integration",
   "description": "Report Preview Integration",
   "privacyStatement": "https://www.beyond365.de/datenschutz",
@@ -20,7 +20,7 @@
       "name": "BeyondReportPreview",
       "publisher": "BEYONDIT GmbH",
       "version": "2024.7.0.0"
-    }     
+    }
   ],
   "screenshots": [],
   "platform": "22.0.0.0",
